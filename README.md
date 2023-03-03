@@ -1,2 +1,1 @@
-# DiscordBot
-Discord Bot Code (PYCORD)
+# Content
